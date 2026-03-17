@@ -94,19 +94,6 @@ Importance of data storytelling
 
 Converting raw data into actionable insights
 
-📸 Dashboard Preview
-
-(Add your Tableau screenshots here)
-
-🔗 Future Improvements
-
-Add filters for deeper interactivity
-
-Include more athlete-level KPIs
-
-Deploy dashboard on Tableau Public
-
-Combine with Python/SQL for advanced analysis
 
 🙌 Conclusion
 
